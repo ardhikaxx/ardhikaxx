@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋, I'm Yanuar Ardhika Rahmadhani Ubaidillah</h1>
+<h1 align="left">Hello, I'm Yanuar Ardhika Rahmadhani Ubaidillah</h1>
 <h3 align="left">Experienced frontend developer with a passion for creating visually stunning and user-friendly websites.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yanuar ardhika rahmadhani ubaidillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yanuar ardhika rahmadhani ubaidillah" height="30" width="40" /></a>
-<a href="https://instagram.com/@ardxhk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ardxhk_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ardhkx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ardhkx" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yanuar-ardhika-rahmadhani-ubaidillah-36a842287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yanuar ardhika rahmadhani ubaidillah" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ardxhk_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ardxhk_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC19nuQXQYR0ynXkS-EhlpVg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ardhkx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
