@@ -1,5 +1,5 @@
-<h1 align="right">Hi 👋, I'm Yanuar Ardhika Rahmadhani Ubaidillah</h1>
-<h3 align="right">Experienced frontend developer with a passion for creating visually stunning and user-friendly websites.</h3>
+<h1 align="left">Hi 👋, I'm Yanuar Ardhika Rahmadhani Ubaidillah</h1>
+<h3 align="leeft">Experienced frontend developer with a passion for creating visually stunning and user-friendly websites.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
