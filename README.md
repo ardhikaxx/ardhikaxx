@@ -1,5 +1,10 @@
-<h1 align="left">Hello, I'm Yanuar Ardhika Rahmadhani Ubaidillah</h1>
-<h3 align="left">Experienced frontend developer with a passion for creating visually stunning and user-friendly websites.</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yanuar Ardhika Rahmadhani Ubaidillah
+============================================================================================================================================================
+
+Front End Developers
+--------------------
+
+Experienced frontend developer with a passion for creating visually stunning and user-friendly websites.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
