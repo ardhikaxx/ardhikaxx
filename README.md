@@ -1,6 +1,5 @@
-Hi, My name is Yanuar Ardhika Rahmadhani Ubaidillah
-=======================================================================================================
-Experienced frontend developer with a passion for creating visually stunning and user-friendly websites.
+<h1>Hi, My name is Yanuar Ardhika Rahmadhani Ubaidillah</h1>
+<h2>Experienced frontend developer with a passion for creating visually stunning and user-friendly websites.</h2>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
