@@ -1,14 +1,14 @@
 <h1>Hi, My name is Yanuar Ardhika Rahmadhani Ubaidillah</h1>
 <h2>Experienced frontend developer with a passion for creating visually stunning and user-friendly websites.</h2>
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yanuar-ardhika-rahmadhani-ubaidillah-36a842287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yanuar ardhika rahmadhani ubaidillah" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ardxhk_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ardxhk_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC19nuQXQYR0ynXkS-EhlpVg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ardhkx" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Skill:</h2>
+<h3 align="left">Skill:</h3>
 <p align="left">
 <div style="display: flex; align-items: center;">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
