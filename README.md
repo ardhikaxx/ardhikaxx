@@ -34,7 +34,7 @@
 <a href="http://www.github.com/ardhikaxx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ardhikaxx&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ardhikaxx's GitHub stats" /></a>
 
 <h3 align="left">Statistics</h3>
-<div style="display: flex; align-items: center; margin-bottom: 20px;"align="left">
+<div style="display: flex; align-items: center;>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardhikaxx&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardhikaxx&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ardhikaxx&theme=dark" height="180em" />
