@@ -33,11 +33,11 @@
 
 <a href="http://www.github.com/ardhikaxx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ardhikaxx&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ardhikaxx's GitHub stats" /></a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
+<h3 align="left">Statistics</h3>
+<div style="display: flex; align-items: center;"align="left">
 <a href="https://github.com/ardhikaxx">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardhikaxx&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardhikaxx&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ardhikaxx&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardhikaxx&theme=2077" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardhikaxx&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardhikaxx&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ardhikaxx&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardhikaxx&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" height="180em" />
 </div>
