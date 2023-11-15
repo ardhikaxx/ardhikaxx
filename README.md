@@ -36,5 +36,4 @@
 <h3 align="left">Statistics</h3>
 <img style="margin: 10px;" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardhikaxx&theme=dark" height="180em" />
 <img style="margin: 10px;" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardhikaxx&theme=dark" height="180em" />
-<img style="margin: 10px;" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ardhikaxx&theme=dark" height="180em" />
 <img style="margin: 10px;" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardhikaxx&theme=dark" height="180em" />
