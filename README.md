@@ -1,4 +1,4 @@
-<h1>Hi, My name is Yanuar Ardhika Rahmadhani Ubaidillah</h1>
+<h1>Hi, My name is Yanuar Ardhika</h1>
 <h2>Experienced frontend developer with a passion for creating visually stunning and user-friendly websites.</h2>
 
 <h3 align="left">Connect with me:</h3>
