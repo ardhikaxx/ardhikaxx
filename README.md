@@ -1,4 +1,4 @@
-<img align="left" src="PROFILE.png" width="411" style="border-radius: 10px;" />
+<img align="left" src="PROFILE.jpg" width="411" style="border-radius: 10px;" />
 
 <h1>Hi, My name is Yanuar Ardhika</h1>
 <h2>Experienced frontend developer with a passion for creating visually stunning and user-friendly websites.</h2>
