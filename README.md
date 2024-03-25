@@ -1,9 +1,7 @@
-<div>
   <img align="left" src="PROFILE.jpg" width="200" style="border-radius: 10px; margin-right: 20px;" />
   
   # Hi, My name is **Yanuar Ardhika**
   Experienced frontend developer with a passion for creating visually stunning and user-friendly websites.
-</div>
 
 <br>
 <br>
