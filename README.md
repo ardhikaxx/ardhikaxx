@@ -1,4 +1,4 @@
-<img align="left" src="PROFILE.png" width="420" style="border-radius: 10px; margin-right: 20px;" />
+<img align="left" src="PROFILE.png" width="430" style="border-radius: 10px; margin-right: 20px;" />
   
 ```powershell
 Hi, My name is Yanuar Ardhika
