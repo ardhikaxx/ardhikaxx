@@ -1,5 +1,3 @@
-<img align="left" src="PROFILE.jpg" width="350" style="border-radius: 25px; margin-right: 20px;" />
-  
 ```powershell
 Hi, My name is Yanuar Ardhika
 ```
