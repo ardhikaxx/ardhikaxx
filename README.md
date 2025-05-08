@@ -3,14 +3,8 @@
 
 🎯 Transforming ideas into elegant digital experiences with clean code and pixel-perfect designs. Passionate about building interactive web applications that users love.
 
-name: Full-year calendar
-uses: ardhikaxx/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+<details open><summary>Full year calendar</summary><img src="https://github.com/ardhikaxx/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+      <details><summary>Half year calendar</summary><img src="https://github.com/ardhikaxx/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
 
 
 ---
