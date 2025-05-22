@@ -1,5 +1,5 @@
 <h1>Yanuar Ardhika</h1>
-<p>Junior Web Developer & Mobile Developer | Computer Engineering Student</p>
+<p>Junior Web Developer & Mobile Developer</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
