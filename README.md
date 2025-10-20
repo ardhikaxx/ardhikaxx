@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/57/fd/06/57fd0625e3c2ac986f63ee364e1b81b8.jpg">
+<img height="200" src="https://i.pinimg.com/1200x/57/fd/06/57fd0625e3c2ac986f63ee364e1b81b8.jpg">
 <h1>Yanuar Ardhika Rahmadhani Ubaidillah</h1>
 <p>Junior Web Developer & Mobile Developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
