@@ -1,50 +1,40 @@
 <div align="center">
 
-# 🚀 Yanuar Ardhika Rahmadhani Ubaidillah
-### Junior Web & Mobile Developer
+# 💫 Hello World, I'm Yanuar Ardhika Rahmadhani Ubaidillah
+### ✨ Junior Web & Mobile Developer
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🚀 Quick Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Main%20Focus-Frontend%20Development-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Learning-Advanced%20Backend-orange?style=for-the-badge&logo=node.js" />
+</p>
 
-<table>
+---
+
+### 🧰 Software Engineering Toolbox
+
+<table align="center">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-Languages-2c3e50?style=for-the-badge" alt="Languages title" /><br/><br/>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=js,ts,php,dart" /><br>
+      <strong>Languages</strong>
     </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-Frameworks%20&%20Libraries-2c3e50?style=for-the-badge" alt="Frameworks title" /><br/><br/>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-      <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/nuxt.js-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82" /><br/>
-      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" />
-      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,flutter,laravel" /><br>
+      <strong>Frameworks</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-Databases%20&%20Backend-2c3e50?style=for-the-badge" alt="Backend title" /><br/><br/>
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,firebase" /><br>
+      <strong>Backend & Database</strong>
     </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-DevOps%20&%20Tools-2c3e50?style=for-the-badge" alt="Tools title" /><br/><br/>
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,astro,vite,git,postman" /><br>
+      <strong>Styling & Tools</strong>
     </td>
   </tr>
 </table>
@@ -58,8 +48,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhikaxx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170px" />
 </p>
 
-### 🐍 Contribution Graph
+---
 
-![Contribution Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+### 🐍 Contribution Rhythm
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 </div>
