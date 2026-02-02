@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Hello World, I'm Yanuar Ardhika Rahmadhani Ubaidillah
+# 💫 Hello, I'm Yanuar Ardhika Rahmadhani Ubaidillah
 ### ✨ Junior Web & Mobile Developer
 
 <p align="center">
@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Learning-Advanced%20Backend-orange?style=for-the-badge&logo=node.js" />
 </p>
-
-### 🧰 Software Engineering Toolbox
 
 <table align="center">
   <tr>
@@ -33,8 +31,6 @@
     </td>
   </tr>
 </table>
-
-### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ardhikaxx&theme=dark&hide_border=false" alt="GitHub Streak" height="170px" />
