@@ -34,7 +34,6 @@
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ardhikaxx&theme=dark&hide_border=false" alt="GitHub Streak" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhikaxx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170px" />
 </p>
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
