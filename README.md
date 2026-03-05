@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://www.thegitcity.com/dev/ardhikaxx" />
+
 # 💫 Hello, I'm Yanuar Ardhika Rahmadhani Ubaidillah
 ### ✨ Junior Web & Mobile Developer
 
