@@ -1,9 +1,5 @@
 <div align="center">
 
-<a href="https://www.thegitcity.com/dev/ardhikaxx" align="center">
-  <img src="https://www.thegitcity.com/dev/ardhikaxx/opengraph-image" width="600" alt="Yanuar Ardhika - Git City"/>
-</a>
-
 # 💫 Hello, I'm Yanuar Ardhika Rahmadhani Ubaidillah
 ### ✨ Junior Web & Mobile Developer
 
@@ -12,6 +8,8 @@
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Learning-Advanced%20Backend-orange?style=for-the-badge&logo=node.js" />
 </p>
+
+---
 
 <table align="center">
   <tr>
@@ -36,14 +34,41 @@
   </tr>
 </table>
 
+---
+
+<!-- 🏆 TROPHY -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ardhikaxx&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophy" />
+</p>
+
+---
+
+<!-- 📊 STATS + TOP LANGUAGES side by side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ardhikaxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhikaxx&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170px" />
+</p>
+
+<!-- 🔥 STREAK -->
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ardhikaxx&theme=dark&hide_border=false" alt="GitHub Streak" height="170px" />
 </p>
 
+---
+
+<!-- 📈 ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardhikaxx&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
 </p>
 
+<!-- 🐍 SNAKE -->
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+
+---
+
+<!-- 👀 VISITOR BADGE -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ardhikaxx&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 </div>
