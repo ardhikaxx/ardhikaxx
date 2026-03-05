@@ -36,9 +36,10 @@
 
 ---
 
+<!-- 📊 STATS - pakai host alternatif -->
 <p align="center">
-  <img src="https://readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ardhikaxx&show_icons=true&theme=github_dark&hide_border=true" height="165px" />
-  <img src="https://readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ardhikaxx&layout=compact&theme=github_dark&hide_border=true" height="165px" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ardhikaxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165px" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ardhikaxx&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165px" />
 </p>
 
 <!-- 🔥 STREAK -->
