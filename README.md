@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.thegitcity.com/dev/ardhikaxx">
+<a href="https://www.thegitcity.com/dev/ardhikaxx" align="center">
 <img src="https://www.thegitcity.com/dev/ardhikaxx/opengraph-image" width="600" alt="Yanuar Ardhika - Git City"/>
 </a
 
