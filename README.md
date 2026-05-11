@@ -42,11 +42,6 @@
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ardhikaxx&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165px" />
 </p>
 
-<!-- 🔥 STREAK -->
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ardhikaxx&theme=dark&hide_border=false" alt="GitHub Streak" height="170px" />
-</p>
-
 ---
 
 <!-- 📈 ACTIVITY GRAPH -->
