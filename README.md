@@ -1,7 +1,7 @@
 <div align="center">
 
 # <Hello, I'm Yanuar Ardhika Rahmadhani Ubaidillah\>
-### IT/Developer
+### Software Engineer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main%20Focus-Frontend%20Development-blue?style=for-the-badge&logo=react" />
