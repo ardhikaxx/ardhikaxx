@@ -44,11 +44,6 @@
 
 ---
 
-<!-- 📈 ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardhikaxx&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
-</p>
-
 <!-- 🐍 SNAKE -->
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 
