@@ -28,7 +28,7 @@
       <strong>Backend & Database</strong>
     </td>
     <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,astro,vite,git,postman" /><br>
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,astro,vite,git,postman,jupyter" /><br>
       <strong>Styling & Tools</strong>
     </td>
   </tr>
