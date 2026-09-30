@@ -14,7 +14,7 @@
 <table align="center">
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=js,ts,php,dart" /><br>
+      <img src="https://skillicons.dev/icons?i=js,ts,php,dart,python" /><br>
       <strong>Languages</strong>
     </td>
     <td align="center" style="border: none;">
