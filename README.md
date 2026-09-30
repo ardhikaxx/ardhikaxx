@@ -18,13 +18,13 @@
       <strong>Languages</strong>
     </td>
     <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,flutter,laravel" /><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel" /><br>
       <strong>Frameworks</strong>
     </td>
   </tr>
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,firebase" /><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite,firebase" /><br>
       <strong>Backend & Database</strong>
     </td>
     <td align="center" style="border: none;">
