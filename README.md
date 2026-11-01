@@ -20,10 +20,6 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/city?username=ardhikaxx&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F124660694%3Fu%3D52c7d20ff92a303a3e8e98f94ad004aaf46d1e2f%26v%3D4" alt="ardhikaxx city visual" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Main%20Focus-Frontend%20Development-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Learning-Advanced%20Backend-orange?style=for-the-badge&logo=node.js" />
@@ -60,6 +56,10 @@
 <p align="center">
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ardhikaxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165px" />
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ardhikaxx&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165px" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/city?username=ardhikaxx&theme=dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F124660694%3Fu%3D52c7d20ff92a303a3e8e98f94ad004aaf46d1e2f%26v%3D4" alt="ardhikaxx city visual" />
 </p>
 
 ---
