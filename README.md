@@ -1,5 +1,18 @@
 <div align="center">
 
+<p><sub>WOW PROFILE · ARDHIKAXX · LIVE</sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ardhikaxx&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F124660694%3Fu%3D52c7d20ff92a303a3e8e98f94ad004aaf46d1e2f%26v%3D4&variant=living-identity&label=Yanuar%20Ardhika%20Rahmadhani%20Ubaidillah&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=ardhikaxx&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F124660694%3Fu%3D52c7d20ff92a303a3e8e98f94ad004aaf46d1e2f%26v%3D4&variant=living-identity&label=Yanuar%20Ardhika%20Rahmadhani%20Ubaidillah&v=wow-living-identity-1&mode=dark" width="100%" alt="Yanuar Ardhika Rahmadhani Ubaidillah animated Living Identity portrait and ASCII name" />
+</picture>
+<p><strong>Frontend or full-stack engineer</strong> · Bondowoso, Jawa Timur</p>
+<p>Building useful things and sharing the work in public.</p>
+<p><a href="https://github.com/ardhikaxx">GitHub</a> &nbsp;·&nbsp; <a href="https://yanuar-ardhika.vercel.app/">Website</a></p>
+</div>
+
+<div align="center">
+
 # <Hello, I'm Yanuar Ardhika Rahmadhani Ubaidillah\>
 ### Software Engineer
 
