@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<h1><Yanuar Ardhika Rahmadhani Ubaidillah\></h1>
+<h1>Yanuar Ardhika Rahmadhani Ubaidillah</h1>
 <h2>Software Engineer</h2>
 <p>Building useful software and sharing the work in public.</p>
 <p><sub>Based in Bondowoso, Jawa Timur</sub></p>
