@@ -3,10 +3,12 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · ardhikaxx</sub></p>
 <h1>Yanuar Ardhika Rahmadhani Ubaidillah</h1>
-<h2>Software Engineer</h2>
+<h2>Frontend or full-stack engineer</h2>
 <p>Building useful software and sharing the work in public.</p>
-<p><sub>Based in Bondowoso, Jawa Timur</sub></p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Bondowoso, Jawa Timur · Building at Politeknik Negeri Jember</sub></p>
 <p><a href="https://github.com/ardhikaxx">GitHub</a> &nbsp;·&nbsp; <a href="https://yanuar-ardhika.vercel.app/">Website</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
@@ -14,7 +16,6 @@
 </td>
 </tr>
 </table>
-
 </div>
 
 <div align="center">
