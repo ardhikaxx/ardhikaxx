@@ -109,7 +109,14 @@
         "showTwitter": false,
         "showGists": false,
         "showStatsSection": true,
-        "showMainSection": true
+        "showMainSection": true,
+        "accentColor": "#ffffff",
+        "headerColor": "#ffffff",
+        "labelColor": "#d4d4d8",
+        "dotColor": "#3f3f46",
+        "valueColor": "#fafafa",
+        "statsValColor": "#e4e4e7",
+        "dividerColor": "#27272a"
       },
       "locked": false,
       "visible": true,
@@ -20448,6 +20455,28 @@
       "locked": false,
       "visible": true,
       "zIndex": 4
+    },
+    {
+      "instanceId": "widget_52b9db33-46e9-4be5-8cf3-3206f6ca772c",
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
+      "position": {
+        "x": 10,
+        "y": 792
+      },
+      "size": {
+        "width": 780,
+        "height": 420
+      },
+      "config": {
+        "accentColor": "#e6fbfb",
+        "customTitle": "Terminal Telemetry",
+        "secondaryColor": "#8a8a8a",
+        "ledColor": "#ffffff"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
     }
   ],
   "globalStyles": {
@@ -20464,7 +20493,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793541622165_aqvtf",
-    "updatedAt": "2026-11-01T14:00:27.624Z"
+    "revision": "rev_1793544162901_j31dp",
+    "updatedAt": "2026-11-01T14:42:49.168Z"
   }
 }
